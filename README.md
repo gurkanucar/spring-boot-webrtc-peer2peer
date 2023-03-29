@@ -6,6 +6,16 @@
 - Socket.IO
 - BootStrap
 
+
+WebRTC (Web Real-Time Communication): An open-source project that provides real-time communication between web browsers and mobile applications. Mostly used for video, audio communications, screen sharing, and streaming.
+
+
+
+SocketIO: A JavaScript library designed for real-time, bidirectional communication. In this project, I have implemented "netty-socket.io" ( Java Spring Boot compatible) as a signaling mechanism.
+
+
+
+
 ### Instructions
 
 #### write your local ip for each step
