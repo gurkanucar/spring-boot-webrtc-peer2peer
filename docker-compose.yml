@@ -20,3 +20,16 @@ services:
     volumes:
       - ./ssl:/etc/nginx/ssl
 
+
+  #  unnecessary for development on local environment
+  #  coturn:
+  #    image: instrumentisto/coturn
+  #    restart: always
+  #    environment:
+  #      - TURN_PUBLIC_IP=<IP_ADDRESS>
+  #      - TURN_REALM=username
+  #      - TURN_SECRET=password
+  #    ports:
+  #      - "3478:3478/udp"
+  #      - "3478:3478/tcp"
+  #      - "65435-65535:65435-65535/udp"
