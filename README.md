@@ -32,6 +32,10 @@ file location: `src/main/resources/static/client.js`
 
 ### Examples
 
+#### video
+
+[https://www.youtube.com/watch?v=nbOB8ekk3xM](https://www.youtube.com/watch?v=nbOB8ekk3xM)
+
 #### phone + computer connection example
 
 ![./images/image3.png](./images/image3.png)
