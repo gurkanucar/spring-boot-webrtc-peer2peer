@@ -1,0 +1,26 @@
+
+.btn-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 50%;
+  border: none;
+  line-height: 1.3px;
+}
+
+.bi {
+  font-size: 20px;
+  color: white;
+}
+
+.enabled-style {
+  background-color: #008cff;
+}
+
+
+.disabled-style {
+  background-color: #ff3030;
+}
