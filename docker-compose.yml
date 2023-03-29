@@ -3,7 +3,7 @@ version: '3'
 services:
 
   springboot:
-    build: ./be
+    build: .
     container_name: springboot-app
     environment:
       - SPRING_PROFILES_ACTIVE=prod
