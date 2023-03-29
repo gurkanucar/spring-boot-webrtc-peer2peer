@@ -20,13 +20,17 @@
 
 change `<YOUR_LOCAL_IP>` with your local ip same as step 1
 
+3) **update client.js file in resources**
+
 file location: `src/main/resources/static/client.js`
 
 ```let socket = io.connect("https://<YOUR_LOCAL_IP>", {secure: true});```
 
-3) **build docker image**
+4) **build docker image**
 
 `docker-compose up -d --build`
+
+### Examples
 
 #### phone + computer connection example
 
